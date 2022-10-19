@@ -1,0 +1,209 @@
+body{
+    background-color: lightblue;
+
+margin: 0;
+padding: 0;
+margin-bottom: 50px;margin-left: 10px;
+}
+
+
+.box1{
+background-color: green;
+height: 250px;
+width: 300px;
+
+padding-top: 40px;
+margin-top: 50px;
+}
+.boxone{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+
+
+border: solid;
+border-width: 10px;
+}
+#no1{
+padding-top: 60px;
+color: white;
+font-size: x-large;
+font-weight: bold;
+
+}
+.box2{height: 280px;
+    width: 280px;
+background-color: purple;
+padding-top: 2px;
+margin-top: 40px;
+float: left;
+}
+.boxtwo{
+    height: 180px;
+    width: 180px;
+background-color: red;
+
+border: solid;
+border-width: 10px;
+margin-top: 50px;
+
+}
+.no2{
+    color: white;
+font-weight: bold;
+    font-size: x-large;
+    padding-top: 60px;
+}
+
+
+
+
+
+.box3{height: 280px;
+    width: 280px;
+background-color: blue;
+padding-top: 2px;
+margin-top: 40px;
+float: left;
+margin-left: 50px;
+border: solid;
+border-width: 7px;
+border-color: pink;
+}
+.boxthree{
+    height: 180px;
+    width: 180px;
+background-color: red;
+
+border: solid;
+border-width: 10px;
+margin-top: 50px;
+
+}
+.no3{
+    color: white;
+font-weight: bold;
+    font-size: x-large;
+    padding-top: 60px;
+}
+
+
+
+
+
+.box4{height: 280px;
+    width: 280px;
+background-color: purple;
+padding-top: 2px;
+margin-top: 40px;
+float: left;
+margin-left: 50px;
+
+}
+.boxfour{
+    height: 180px;
+    width: 180px;
+background-color: red;
+
+border: solid;
+border-width: 10px;
+margin-top: 50px;
+
+}
+.no4{
+    color: white;
+font-weight: bold;
+    font-size: x-large;
+    padding-top: 60px;
+}
+
+
+
+
+
+.box5{height: 280px;
+    width: 280px;
+background-color: purple;
+padding-top: 2px;
+margin-top: 40px;
+float: left;
+margin-left: 50px;
+
+}
+.boxfive{
+    height: 180px;
+    width: 180px;
+background-color: red;
+
+border: solid;
+border-width: 10px;
+margin-top: 50px;
+
+}
+.no5{
+    color: white;
+font-weight: bold;
+    font-size: x-large;
+    padding-top: 60px;
+}
+
+
+
+
+.box6{height: 280px;
+    width: 280px;
+background-color: purple;
+padding-top: 2px;
+margin-top: 40px;
+float: left;
+margin-left: 5px;
+margin-right: 450px;
+margin-bottom: 100px;
+}
+.boxsix{
+    height: 180px;
+    width: 180px;
+background-color: red;
+
+border: solid;
+border-width: 10px;
+margin-top: 50px;
+
+}
+.no6{
+    color: white;
+font-weight: bold;
+    font-size: x-large;
+    padding-top: 60px;
+}
+
+
+
+
+
+
+.box7{height: 280px;
+    width: 280px;
+background-color: purple;
+padding-top: 2px;
+margin-top: 40px;
+float: left;
+margin-left: 270px;
+margin-bottom: 100px;
+}
+.boxseven{
+    height: 180px;
+    width: 180px;
+background-color: red;
+
+border: solid;
+border-width: 10px;
+margin-top: 50px;
+
+}
+.no7{
+    color: white;
+font-weight: bold;
+    font-size: x-large;
+    padding-top: 60px;
+}

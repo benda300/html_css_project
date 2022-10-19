@@ -1,0 +1,233 @@
+body p{
+    color: grey;
+    font-size:5mm;
+}
+body h1,h2{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-weight: bold;}
+/* navigation bar */
+
+.all-nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+}
+.nav-anchor a{margin-right: 1rem;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-decoration: none;
+color: black;
+font-weight: 700;
+font-size: medium;
+color: grey;
+}
+.nav-anchor a:last-child{
+    padding: 8px 20px ;
+    background-color: orangered;
+    border-radius: 20px;
+    margin-left: 3rem;
+    color: white;
+}
+/* endof navigation bar */
+
+
+/*hero section  */
+
+.all-hero{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 4rem;
+}
+
+.hero-left{
+    color: #9EC0E5;
+    margin-right: 3rem;
+}
+.lastp{
+    margin-bottom: 4rem;
+}
+.hero-left a{
+    text-decoration: none;
+    padding: 8px 20px;
+    border-radius: 20px;background-color: orangered;
+    color: white;
+}
+.hero-left h2{
+    margin-bottom: 0;
+font-size: 13mm;
+font-weight: bolder;
+color: black;
+}
+
+
+/* end of hero section */
+
+
+
+
+/* about manage section */
+
+.heading{display: flex;
+}
+.num h3{
+    margin-right: 2rem;
+    padding: 8px 15px;
+    background-color: orangered;
+    color: white;
+    border-radius: 20px;
+    
+}
+.all-about{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 6rem;
+}
+.about-left{
+    margin-right: 3rem;
+}
+
+.about-left h1{
+    font-size: 13mm;
+    
+}
+
+
+
+
+
+
+/*  end of about manage section */
+/* difference section */
+.all-difference h1{
+    font-size: 13mm;
+    margin-bottom: 5rem;
+}
+.card img{
+    height: 5rem;
+ 
+ 
+ 
+}
+.card{
+    background-color: #fafafa;
+    width: 25rem;
+    border-radius: 8px;
+    margin-right: 2rem;
+    
+}
+.all-card{
+    display: flex;
+    align-items: center;
+    margin-bottom: 5rem;
+}
+
+
+
+
+/* end of difference setion */
+
+/* simplify section */
+
+.get a{
+    padding: 8px 20px;
+    background-color: orangered;
+    color: white;
+    
+    text-decoration: none;
+    border-radius: 20px;
+}
+.get{
+    margin-bottom: 5rem;
+}
+.simplify{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+    background-color: orangered;
+    color: white;
+    padding: 2rem;
+}
+
+
+.simplify-right a{
+    padding: 8px 20px;
+    background-color: white;
+    color: orangered;
+    border-radius: 20px;
+    text-decoration: none;
+
+}
+
+
+/* end of simlify section */
+/* footer section */
+
+.all-footer{
+    background-color: black;
+}
+.man-icon i{
+    color: white;
+    font-size: 12mm;
+    margin-right: 6px;
+}
+.manage-log{
+    display: flex;
+}
+.list p{
+    color: white;
+}
+.list p:hover{
+    color: orangered;
+}
+
+
+.inbox-left p{
+    padding: 8px 5px;
+    background-color: white;
+    color: grey;
+    width: 12rem;
+    border-radius: 20px;
+}
+.inbox-right a{
+    padding: 8px 20px;
+    color: white;
+    background-color: orangered;
+    text-decoration: none;border-radius: 20px;
+}
+.inbox-left{margin-right: 2rem;}
+
+
+.inbox{
+    display: flex;
+    align-items: center;
+}
+
+.update h2{color: white;}
+.man-credit{
+    display: flex;
+}
+.all-footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+.copy{
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*end of footer section */
